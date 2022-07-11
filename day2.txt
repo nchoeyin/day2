@@ -1,0 +1,23 @@
+This is as seen in python jupyter IDE
+>>> print("Hello" [0])
+H
+
+>>> print("123"+"345")
+123345
+
+>>> print(123_456_789)
+123456789
+
+>>> a = float(123)
+>>> print(a)
+123.0
+
+>>> print(6/3)
+2.0
+
+>>> exp = 5**2 / 10
+>>> print(exp)
+>>> print(type(exp))
+2.5
+<class 'float'>
+
